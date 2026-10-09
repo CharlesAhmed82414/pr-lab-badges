@@ -2,3 +2,4 @@
 - note 3: review notes before tagging (2026-10-09T23:11:35)
 - note 5: keep the titles in sentence case (2026-10-09T23:11:50)
 - note 7: paths in examples stay relative (2026-10-09T23:12:05)
+- note 9: the retry section mirrors the code (2026-10-09T23:12:20)
