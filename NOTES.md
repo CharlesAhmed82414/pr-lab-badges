@@ -6,3 +6,4 @@
 - note 11: temporary notes are pruned weekly (2026-10-09T23:12:35)
 - note 13: names follow the directory layout (2026-10-09T23:12:49)
 - note 15: review notes before tagging (2026-10-09T23:13:04)
+- note 17: keep the titles in sentence case (2026-10-09T23:13:22)
