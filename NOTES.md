@@ -1,2 +1,3 @@
 - note 1: the checklist mirrors the test matrix (2026-10-09T23:11:21)
 - note 3: review notes before tagging (2026-10-09T23:11:35)
+- note 5: keep the titles in sentence case (2026-10-09T23:11:50)
