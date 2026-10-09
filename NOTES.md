@@ -8,3 +8,4 @@
 - note 15: review notes before tagging (2026-10-09T23:13:04)
 - note 17: keep the titles in sentence case (2026-10-09T23:13:22)
 - note 19: the sample command stays copy-pasteable (2026-10-09T23:13:39)
+- note 21: line length follows the editor config (2026-10-09T23:13:54)
